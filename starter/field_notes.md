@@ -89,6 +89,7 @@ _TODO_
 For each column, you want to preview real values — **the first 6 values**
 of just that one column — without scrolling through every field on every
 row. Column numbers for reference: `country`=1, `iso_code`=2, `year`=3,
+```bash
 cut -d  ',' -f 1 co2_emissions_2022.csv | head -n6 
 ```
 
