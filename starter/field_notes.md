@@ -98,7 +98,7 @@ name alone:
 
 | Column | Inferred type | How I can tell |
 |---|---|---|
-| _TODO_ | _TODO_ | _TODO_ |
+| _country_ | _String_ | _countries are just words hold no value_ |
 | _TODO_ | _TODO_ | _TODO_ |
 | _TODO_ | _TODO_ | _TODO_ |
 | _TODO_ | _TODO_ | _TODO_ |
@@ -113,8 +113,7 @@ _TODO_
 
 ## 4. Structured or unstructured?
 
-State whether this dataset is structured or unstructured, and why.
-
+This data is structured, since it is consistent rows that have the same aligning values inside of it. 
 _TODO_
 
 ## 5. Before you trust this data
