@@ -99,7 +99,7 @@ name alone:
 | Column | Inferred type | How I can tell |
 |---|---|---|
 | _country_ | _String_ | _countries are just words hold no value_ |
-| _iso code_ | _TODO_ | _TODO_ |
+| _iso code_ | _string_ | _only word value_ |
 | _year_ | _Integer _ | _represents whole numbers_ |
 | _population_ | _Integer _ | _A person can not be half_ |
 | _gdp_ | _integer_ | _Only whole numbers present_ |
