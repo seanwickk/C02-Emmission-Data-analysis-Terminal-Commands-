@@ -99,11 +99,11 @@ name alone:
 | Column | Inferred type | How I can tell |
 |---|---|---|
 | _country_ | _String_ | _countries are just words hold no value_ |
-| _TODO_ | _TODO_ | _TODO_ |
-| _TODO_ | _TODO_ | _TODO_ |
-| _TODO_ | _TODO_ | _TODO_ |
-| _TODO_ | _TODO_ | _TODO_ |
-
+| _iso code_ | _TODO_ | _TODO_ |
+| _year_ | _Integer _ | _represents whole numbers_ |
+| _population_ | _Integer _ | _A person can not be half_ |
+| _gdp_ | _integer_ | _Only whole numbers present_ |
+| _co2_ | _float_ | _Anything with decimals isnt whole so it cant be a integer floats have half numbers_ |
 **In your own words:** what's the actual difference between a list/array
 and a table? (Not a definition you looked up — explain it the way you'd
 explain it to a friend who's never coded. No command needed for this one,
