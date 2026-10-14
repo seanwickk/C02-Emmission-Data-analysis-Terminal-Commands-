@@ -70,9 +70,9 @@ Africa,,2022,1445862695,,1459.114
 Africa (GCP),,2022,,,1459.103
 Albania,ALB,2022,2827614,36171005594,4.498
 **What I notice:** _TODO — your raw observations, in your own words_
-
+We are observing multiple countries in alphabetic order
 ## 2. Column names
-
+Countries,iso code, years,population,gdp,co2
 Next you want to see just the column names by themselves — one per line is
 a lot easier to scan than one long comma-separated row.
 
