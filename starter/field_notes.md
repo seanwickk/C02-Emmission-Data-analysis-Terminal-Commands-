@@ -32,11 +32,11 @@ did the work. There's no separate log file to keep in sync with this one;
 whenever you write a command down anywhere in this file, use a fenced code
 block tagged `bash`, like this:
 
-````
+
 ```bash
 git status
 ```
-````
+
 
 Three backticks, the word `bash`, your command, three backticks to close —
 it renders with syntax highlighting and makes the command copy-pasteable.
