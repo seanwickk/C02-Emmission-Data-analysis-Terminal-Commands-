@@ -461,4 +461,4 @@ fix — not "I googled it and it worked."
 **What happened:**
 _Afghanistan,AFG,2022,40578847,53303471617,10.170_
 
-**What it told me and how I fixed it:** _TODO_
+**What it told me and how I fixed it:** _i researched ways to display code and found printing text to terminal_
