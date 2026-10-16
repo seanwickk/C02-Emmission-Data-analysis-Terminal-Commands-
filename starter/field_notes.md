@@ -63,12 +63,12 @@ Head -n 5
 ``` 
 
 **Output:**
-_TODO: paste what you actually got_
+_ paste what you actually got_
 country,iso_code,year,population,gdp,co2
 Afghanistan,AFG,2022,40578847,53303471617,10.170
 Africa,,2022,1445862695,,1459.114
 Africa (GCP),,2022,,,1459.103
-Albania,ALB,2022,2827614,36171005594,4.498
+Albania,ALB,2022,2827614,36171005594,4.498_
 **What I notice:** _TODO — your raw observations, in your own words_
 We are observing multiple countries in alphabetic order
 ## 2. Column names
