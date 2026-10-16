@@ -103,12 +103,13 @@ name alone:
 | _population_ | _Integer_ | _A person can not be half_ |
 | _gdp_ | _integer_ | _Only whole numbers present_ |
 | _co2_ | _float_ | _Anything with decimals isnt whole so it cant be a integer floats have half numbers_ |
+
 **In your own words:** what's the actual difference between a list/array
 and a table? (Not a definition you looked up — explain it the way you'd
 explain it to a friend who's never coded. No command needed for this one,
 just think about the table you just filled in above.)
 
-_TODO_
+_A table should have rows, and columns, while arrays how only one current type of data and canot be fixed than list can hold anything you wish_
 
 ## 4. Structured or unstructured?
 
