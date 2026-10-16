@@ -34,3 +34,7 @@ Before relying on this (or any) emissions dataset, it is important to conduct ba
 A key question that emerged during this review is whether the two countries that dominate a particular category in the global ecosystem also account for a disproportionately large share of total CO₂ emissions.
 
 ---
+## Sources 
+Github repo
+Pablo Rosado Data on co2emissions and green house emissions by Our World in Data Github 2026.
+https://github.com/owid/co2-data
