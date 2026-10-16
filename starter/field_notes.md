@@ -63,8 +63,8 @@ Head -n 5
 ``` 
 
 **Output:**
-_ paste what you actually got_
-country,iso_code,year,population,gdp,co2
+
+_country,iso_code,year,population,gdp,co2
 Afghanistan,AFG,2022,40578847,53303471617,10.170
 Africa,,2022,1445862695,,1459.114
 Africa (GCP),,2022,,,1459.103
