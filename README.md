@@ -1,7 +1,7 @@
 
 ---
 
-### CO₂ Emissions Review (2020)
+### CO₂ Emissions Review (2022)
 
 This review examines 2020 CO₂ emissions data for our non-profit focused on climate and energy. The goal is to better understand where we should direct community protection and climate support efforts.
 
