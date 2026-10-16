@@ -59,8 +59,8 @@ safe peek at it — not the whole 254-row file, just the **first 5 lines**,
 enough to see the shape of it without scrolling past everything.
 
 ```bash
-# TODO: a command that prints just the first 5 lines of the raw file
-``` /Head -n 5
+Head -n 5
+``` 
 
 **Output:**
 _TODO: paste what you actually got_
