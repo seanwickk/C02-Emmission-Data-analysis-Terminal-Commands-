@@ -75,10 +75,9 @@ We are observing multiple countries in alphabetic order
 Countries,iso code, years,population,gdp,co2
 Next you want to see just the column names by themselves — one per line is
 a lot easier to scan than one long comma-separated row.
-head -n1 co2_emissions_2022.csv 
+
 ```bash
-# TODO: a command (or combination of commands) that prints just the header
-# row, one column name per line
+head -n1 co2_emissions_2022.csv 
 ```
 
 **Output:**
